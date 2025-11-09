@@ -1,6 +1,6 @@
 # UnThrotX v1.0.0
 
-## UnThrotXrsal Thermal Control Application for Android Devices
+## UnThrotX Universal Thermal Control Application for Android Devices
 
 UnThrotX is an advanced application for managing and controlling thermal systems on Android devices with a user-friendly interface and comprehensive features.
 
@@ -34,6 +34,7 @@ UnThrotX is an advanced application for managing and controlling thermal systems
 🚀 What's New in v1.0.0
 
 · First stable release
+. add libsu (thanks from @topjohnwu)
 · More intuitive interface
 · Enhanced stability and performance
 · Bug fixes and optimizations
